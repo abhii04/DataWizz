@@ -60,4 +60,4 @@ Try it [here!](https://datawizz.streamlit.app/)
 
 ## Conclusion
 
-DataWizz is designed to bridge the gap between data visualization and interpretation, making it easier for users to gain actionable insights from their data. Whether you're a student looking to understand your dataset better or a data enthusiast wanting to experiment with visualizations and machine learning, DataViz Genie has you covered.
+DataWizz is designed to bridge the gap between data visualization and interpretation, making it easier for users to gain actionable insights from their data. Whether you're a student looking to understand your dataset better or a data enthusiast wanting to experiment with visualizations and machine learning, DataWizz has you covered.
